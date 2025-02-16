@@ -1,31 +1,31 @@
 [![](https://visitcount.itsvg.in/api?id=readsevenone&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ### Hi there, I'm Ridwan Panji Akbar! 👋
 
-I'm a **Software Engineer & Backend Developer** passionate about building scalable web applications and exploring the world of **Cyber Security**. 
+I'm a **Backend Developer** who enjoys working with **PHP and SQL**. Currently, I'm learning **Laravel and Python** to expand my skills.
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** PHP, SQL, Bash
+- **Languages:** PHP, SQL, Bash Scripting
 - **Frameworks:** CodeIgniter 3
 - **Currently Learning:** Laravel, Python
-- **Interests:** Web Development, Open Source, DevOps
+- **Interests:** Web Development, Open Source
 
 ---
 
 ### 🔐 Cyber Security Enthusiast
-- Passionate about **Web Penetration Testing**
-- Exploring both **BLUE Team & RED Team** strategies
-- Always learning and improving security best practices
+- Interested in **Web Penetration Testing**
+- Learning more about **BLUE Team & RED Team** concepts
 
 ---
 
-### 📫 Let's Connect
+### 📫 Get in Touch
 - 📧 Email: [ridwanpanji.akbar@protonmail.com](mailto:ridwanpanji.akbar@protonmail.com)
 - 🔗 GitHub: [readsevenone](https://github.com/readsevenone)
 
 ---
 
-⭐ **Fun Fact:** I love diving deep into system security while also building robust backend systems! Let's collaborate on exciting projects! 🚀
+Just exploring and learning new things along the way. Open to collaboration! 🚀

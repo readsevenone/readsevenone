@@ -4,15 +4,7 @@
 
 ### Hi there, I'm Ridwan Panji Akbar! 👋
 
-I'm a **Backend Developer** who enjoys working with **PHP and SQL**. Currently, I'm learning **Laravel and Python** to expand my skills.
-
----
-
-### 🛠 Tech Stack
-- **Languages:** PHP, SQL, Bash Scripting
-- **Frameworks:** CodeIgniter 3
-- **Currently Learning:** Laravel, Python
-- **Interests:** Web Development, Open Source
+I'm a **Backend Developer** who enjoys working with web technologies. Currently, I'm learning **Laravel and Python** to expand my skills.
 
 ---
 
@@ -29,3 +21,4 @@ I'm a **Backend Developer** who enjoys working with **PHP and SQL**. Currently, 
 ---
 
 Just exploring and learning new things along the way. Open to collaboration! 🚀
+

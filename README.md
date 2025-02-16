@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Ridwan Panji Akbar! 👋
 
-I'm a **Software Engineer | Backend Developer** who enjoys working with web technologies. Currently, I'm learning **Laravel and Python** to expand my skills.
+I'm a **Software Engineer | Backend Developer** who enjoys working with web technologies. Currently, I'm learning **Python** to expand my skills.
 
 ---
 
@@ -20,5 +20,5 @@ I'm a **Software Engineer | Backend Developer** who enjoys working with web tech
 
 ---
 
-Just exploring and learning new things along the way. Open to collaboration! 🚀
+Just exploring and learning new things along the way🚀
 

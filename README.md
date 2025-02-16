@@ -9,8 +9,16 @@ I'm a **Software Engineer | Backend Developer** who enjoys working with web tech
 ---
 
 ### 🔐 Cyber Security Enthusiast
-- Interested in **Web Penetration Testing**
-- Learning more about **BLUE Team & RED Team** concepts
+- Learning about **Web Security & Penetration Testing**
+- Exploring **BLUE Team & RED Team** concepts
+- Trying to improve security awareness and defensive techniques
+
+---
+
+### 🖥️ Linux & Server Management
+- Learning and managing **Linux-based servers**
+- Interested in **server deployment and optimization**
+- Exploring **cloud services and basic networking**
 
 ---
 
@@ -20,5 +28,6 @@ I'm a **Software Engineer | Backend Developer** who enjoys working with web tech
 
 ---
 
-Just exploring and learning new things along the way🚀
+Just exploring and learning new things along the way 🚀
+
 

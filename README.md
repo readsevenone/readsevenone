@@ -2,32 +2,23 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### Hi there, I'm Ridwan Panji Akbar! 👋
+Hi there, I'm Ridwan Panji Akbar! 👋
 
-I'm a **Software Engineer | Backend Developer** who enjoys working with web technologies. Currently, I'm learning **Python** to expand my skills.
+A backend software engineer passionate about building reliable and secure web technologies. I'm currently expanding my skill set by diving into Python and its ecosystems.
 
----
+**🌱 Currently Exploring & Learning**
+- **🔐 Cyber Security:** Deepening my understanding of web security, penetration testing, and the balance between Blue Team defense and Red Team offense.
+- **🖥️ Infrastructure:** Getting hands-on with Linux server management, deployment, and cloud services to understand how applications live in production.
+- **🐍 Python:** Actively learning Python to add another tool to my backend development toolkit.
 
-### 🔐 Cyber Security Enthusiast
-- Learning about **Web Security & Penetration Testing**
-- Exploring **BLUE Team & RED Team** concepts
-- Trying to improve security awareness and defensive techniques
+I believe in continuous learning and I'm always open to discussing technology, sharing knowledge, and collaborating on interesting projects.
 
----
-
-### 🖥️ Linux & Server Management
-- Learning and managing **Linux-based servers**
-- Interested in **server deployment and optimization**
-- Exploring **cloud services and basic networking**
+📫 **Let's Connect!**
+- 📧 Email: ridwanpanji.akbar@protonmail.com
+- 🔗 GitHub: readsevenone
 
 ---
 
-### 📫 Get in Touch
-- 📧 Email: [ridwanpanji.akbar@protonmail.com](mailto:ridwanpanji.akbar@protonmail.com)
-- 🔗 GitHub: [readsevenone](https://github.com/readsevenone)
-
----
-
-Just exploring and learning new things along the way 🚀
+Thanks for stopping by! 🚀
 
 
